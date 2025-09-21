@@ -45,7 +45,8 @@ public class Doctor {
         this.active = active;
     }
 
-    public List<Pat> getProducts() {
+    public List<Pat> getPats()
+    {
         return pats;
     }
 
@@ -71,4 +72,6 @@ public class Doctor {
         return String.format("Доктор: id - %d, имя - %s, активен - %b, лист покупок - %s.",
                 id, name, active, pats);
     }
+
+
 }
