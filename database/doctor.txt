@@ -1,0 +1,21 @@
+[ {
+  "id" : 1,
+  "name" : "Мария",
+  "active" : false,
+  "pats" : [ ]
+}, {
+  "id" : 2,
+  "name" : "Пётр",
+  "active" : true,
+  "pats" : [ ]{
+}, {
+  "id" : 3,
+  "name" : "Владимир",
+  "active" : false,
+  "pats" : [ ]
+}, {
+  "id" : 4,
+  "name" : "Алла",
+  "active" : false,
+  "pats" : [ ]
+} ]
