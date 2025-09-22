@@ -1,0 +1,29 @@
+[ {
+  "id" : 1,
+  "name" : "Барсик",
+  "type" : "Кот"
+  "cost" : 80.0,
+  "age" = 3,
+  "active" : true
+}, {
+  "id" : 3,
+  "name" : "Мурка",
+  "type" : "Кошка"
+  "cost" : 105.0,
+  "age" = 2,
+  "active" : true
+}, {
+  "id" : 4,
+  "name" : "Джек",
+  "type" : "Собака"
+  "cost" : 190.0,
+  "age"= 7,
+  "active" : true
+}, {
+  "id" : 5,
+  "name" : "Макс",
+  "type" : "Собака"
+  "cost" : 130.0,
+  "age" = 4.5,
+  "active" : false
+} ]
